@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zargo246
-- 👀 I’m interested in coding, videogames, and cats
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m Anwar
+- 👀 I’m interested in coding, basketball, and cats
+- 🌱 I'm currently a Fullstack software engineer at Morgan Stanley
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me anwaralshohatee98@gmail.com
 
